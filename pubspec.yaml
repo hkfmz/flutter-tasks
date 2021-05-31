@@ -28,6 +28,7 @@ dependencies:
   logger: ^0.9.4
   http: ^0.12.2
   dio: 3.0.10
+  shared_preferences: any
 
 dev_dependencies:
   flutter_test:
